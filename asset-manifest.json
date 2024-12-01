@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Car_Towing_Cost_Calculator/static/css/main.9b6aeefb.css",
+    "main.js": "/Car_Towing_Cost_Calculator/static/js/main.889ca4fb.js",
+    "static/js/787.61eee022.chunk.js": "/Car_Towing_Cost_Calculator/static/js/787.61eee022.chunk.js",
+    "index.html": "/Car_Towing_Cost_Calculator/index.html",
+    "main.9b6aeefb.css.map": "/Car_Towing_Cost_Calculator/static/css/main.9b6aeefb.css.map",
+    "main.889ca4fb.js.map": "/Car_Towing_Cost_Calculator/static/js/main.889ca4fb.js.map",
+    "787.61eee022.chunk.js.map": "/Car_Towing_Cost_Calculator/static/js/787.61eee022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6aeefb.css",
+    "static/js/main.889ca4fb.js"
+  ]
+}
