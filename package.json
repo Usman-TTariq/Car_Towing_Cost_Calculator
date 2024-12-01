@@ -1,6 +1,6 @@
 {
   "homepage": "https://usman-ttariq.github.io/Car_Towing_Cost_Calculator",
-  "name": "redux",
+  "name": "car-towing-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
